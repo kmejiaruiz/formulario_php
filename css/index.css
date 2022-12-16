@@ -1,0 +1,9 @@
+@media screen and (max-width: 1000px) {
+    .hijo {
+        width: auto !important;
+    }
+
+    /* #alert{
+        margin-top: 100px !important;
+    } */
+}
